@@ -14,4 +14,4 @@ npm start
 
 ## ScreenShot(Final Look)
 
-![](Screenshot%20from%202020-05-22%2016-16-38.png)ho
+![](Screenshot%20from%202020-05-22%2016-16-38.png)

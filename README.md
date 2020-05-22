@@ -1,6 +1,17 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# COVID-19-Stats
 
-Steps to Deploy: 
-1-STEP. In-terminal Command : npm install
-2-STEP. In terminal Command : npm start 
+It is a Recat-app Which tells Realtime updates of CoronaVirus Spread Across the World.
+It Uses COVID-19 APIs.
 
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+
+```bash
+npm install
+npm start
+```
+
+## ScreenShot(Final Look)
+
+![](Screenshot%20from%202020-05-22%2016-16-38.png)ho
